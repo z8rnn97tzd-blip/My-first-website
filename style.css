@@ -1,0 +1,22 @@
+CSS
+body{
+   background-color:pink;
+   font-family:Arial, sans-serif;
+   text-align:center;
+   padding:30px;
+}
+h{
+   color:black;
+   font-size:40px;
+}
+p{
+    font-size:40px;
+}
+l1{
+    margin:10px;
+    font-size:18px;
+}
+l2{
+     margin:10px;
+    font-size:18px;
+    }
